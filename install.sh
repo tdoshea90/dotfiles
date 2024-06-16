@@ -3,7 +3,7 @@
 # Use the default zsh located in /home/codespace/.oh-my-zsh
 echo "Setting up Codespace dotfiles..."
 
-ln -s aliases.zsh $HOME/.oh-my-zsh/custom
+ln -s "$(pwd)/aliases.zsh" $HOME/.oh-my-zsh/custom/aliases.zsh
 sudo chsh "$(id -un)" --shell "/usr/bin/zsh"
 #source $HOME/.zshrc
 
