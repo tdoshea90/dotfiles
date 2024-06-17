@@ -1,5 +1,5 @@
 # dotfiles
-Fork this repo and then select it under user settings https://github.com/settings/codespaces.
+Minimalist dotfile that sets up aliases. Fork this repo and then select it under user settings https://github.com/settings/codespaces.
 * https://docs.github.com/en/codespaces/setting-your-user-preferences/personalizing-github-codespaces-for-your-account#dotfiles
 * https://docs.github.com/en/codespaces/customizing-your-codespace/changing-the-shell-in-a-codespace
 * https://docs.github.com/en/codespaces/troubleshooting/troubleshooting-personalization-for-codespaces
