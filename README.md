@@ -18,8 +18,9 @@ Where things are:
 @user ➜ / $ tree -L 1 -d .
 /.codespaces
 /home/codespace
-  ├── .zshrc
-  └── opulent-halibut
+  ├── .profile
+  ├── .viminfo
+  └── .zshrc
 /usr
   ├── local
   └── bin
